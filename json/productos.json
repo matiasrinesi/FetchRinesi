@@ -1,0 +1,23 @@
+[
+    {
+        "equipo": "Barcelona",
+        "modelo": "Titular",
+        "precio": 10000,
+        "stock": 35
+ 
+    },
+    {
+        "equipo": "PSG",
+        "modelo": "Titular",
+        "precio": 12000,
+        "stock": 10
+ 
+    },
+    {
+        "equipo": "Real Madrid",
+        "modelo": "suplente",
+        "precio": 10000,
+        "stock": 20
+ 
+    }
+]
